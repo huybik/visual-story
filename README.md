@@ -11,3 +11,6 @@ pinned: false
 
 # In this story of yours, your imagination is the only limit
 <img src='image/sample.png' width=600>
+
+# Hugging face live demo
+https://huggingface.co/spaces/huybik/visual-story
